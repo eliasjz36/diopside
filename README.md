@@ -3,10 +3,10 @@
 <div align="center">
   <img src="./public/favicon.svg" alt="Logo" width="80" height="80">
 
-  <h3 align="center">Citrine - Blockchain Application</h3>
+  <h3 align="center">Diopside - Blog Web App</h3>
 
   <p align="center">
-    An Ethereum exchange web application
+    A technology blog web application
     <br />
     <a href="https://diopside-blog.vercel.app/">View Demo</a>
   </p>
